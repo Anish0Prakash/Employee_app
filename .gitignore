@@ -1,0 +1,16 @@
+# Ignore virtual environment, database, and cache files
+env/
+db.sqlite3
+__pycache__/
+*.log
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.tmp
+media/
+*.sqlite3
+*.DS_Store
+
+
+
